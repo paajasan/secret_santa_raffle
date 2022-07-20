@@ -1,0 +1,7 @@
+# Add participants.
+# Name (without spaces, e.g. FirstnameLastname, not Firstname Lastname) and email, whitespace separated. One per line.
+# Empty lines and lines beginning with "#" are ignored.
+erkki erkki.esimerkki@domain.com
+örkki örkki.esimerkki@domain.com
+frodo frodo.baggins@domain.com
+JarJar jar.jar.binks@naboo.com
