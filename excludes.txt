@@ -1,0 +1,4 @@
+# Add excludes.
+# Space separated name lists, one exclusion group per line.
+# Empty lines and lines beginning with "#" are ignored.
+erkki örkki
